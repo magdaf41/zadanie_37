@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue;
+    margin: 40px;
+}
+h1{
+    text-align: center;
+    color: lightseagreen;
+    font-size: 60px;
+}
+button {
+    width: 100px;
+    height: 40px;
+    background-color: lightyellow;
+    color:blue;
+    font-size: 15px;
+    margin-right: 50px;
+}
+p{
+    font-size: 40px;
+    font-style: italic;
+}
